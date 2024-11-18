@@ -38,6 +38,8 @@ Os agentes interagem de maneira contínua até que uma solução satisfatória s
    ```bash
    cd agent-collaboration
 
+3. Execute o notebook ou script fornecendo uma entrada que os agentes irão processar colaborativamente.
+
 ## Contribuindo
 
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões para melhorar o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
